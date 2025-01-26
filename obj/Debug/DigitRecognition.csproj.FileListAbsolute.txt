@@ -1,0 +1,21 @@
+C:\Users\piete\source\repos\DigitRecognition\bin\Debug\DigitRecognition.exe.config
+C:\Users\piete\source\repos\DigitRecognition\bin\Debug\DigitRecognition.exe
+C:\Users\piete\source\repos\DigitRecognition\bin\Debug\DigitRecognition.pdb
+C:\Users\piete\source\repos\DigitRecognition\obj\Debug\DigitRecognition.csprojAssemblyReference.cache
+C:\Users\piete\source\repos\DigitRecognition\obj\Debug\DigitRecognition.Form1.resources
+C:\Users\piete\source\repos\DigitRecognition\obj\Debug\DigitRecognition.Properties.Resources.resources
+C:\Users\piete\source\repos\DigitRecognition\obj\Debug\DigitRecognition.csproj.GenerateResource.cache
+C:\Users\piete\source\repos\DigitRecognition\obj\Debug\DigitRecognition.csproj.CoreCompileInputs.cache
+C:\Users\piete\source\repos\DigitRecognition\obj\Debug\DigitRecognition.exe
+C:\Users\piete\source\repos\DigitRecognition\obj\Debug\DigitRecognition.pdb
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\bin\Debug\DigitRecognition.exe.config
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\bin\Debug\DigitRecognition.exe
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\bin\Debug\DigitRecognition.pdb
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\obj\Debug\DigitRecognition.csproj.AssemblyReference.cache
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\obj\Debug\DigitRecognition.Form1.resources
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\obj\Debug\DigitRecognition.Properties.Resources.resources
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\obj\Debug\DigitRecognition.csproj.GenerateResource.cache
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\obj\Debug\DigitRecognition.csproj.CoreCompileInputs.cache
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\obj\Debug\DigitRecognition.exe
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\obj\Debug\DigitRecognition.pdb
+C:\Users\piete\Documents\Visual Studio 2022\projects\DigitRecognition\obj\Debug\DigitRecognition.DrawingBoard.resources
